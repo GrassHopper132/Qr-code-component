@@ -78,7 +78,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ### Continued development
 
-I had no clue what to do with this assingment, I had alot of help from the internet, much more code than I antcipated.  I learned that size doesnt matter when it comes to code, its the structure and what you are trying to do. I love these challenges and i might do another challenge on my own this weekend.
+
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
@@ -91,10 +91,10 @@ I had no clue what to do with this assingment, I had alot of help from the inter
 
 ### AI Collaboration
 
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
+Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants. Ai help me with the direction of this project and understanding what to do
 
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
+- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)? I used copilot
+- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?brainstorming soloutions
 - What worked well? What didn't?
 
 **Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
